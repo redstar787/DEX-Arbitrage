@@ -77,7 +77,7 @@ typings/
 # FuseBox cache
 .fusebox/
 
-node_modules
+
 .env
 coverage
 coverage.json
